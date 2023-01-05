@@ -21,14 +21,27 @@ function App() {
     // return <h1>{time}</h1>;
     // return <h1>{new Date().toLocaleTimeString()}</h1>;
 
-    const name = 'Samantha';
-    const age = 23;
+    // const name = 'Samantha';
+    // const age = 23;
 
-    return (
-        <h1>
-            Hi, my name is {name} and my age is {age}
-        </h1>
-    )
+    // return (
+    //     <h1>
+    //         Hi, my name is {name} and my age is {age}
+    //     </h1>
+    // )
+
+    // const inputType = 'number';
+    // const minValue = 5;
+
+    // return <input style={{ border: '3px solid red' }} type={inputType} min={minValue} />;
+
+    // return <textarea autoFocus={true} />;
+
+    // return <input maxLength={5} />;
+
+    return <input spellCheck={false} />;
+
+
 
 };
 
