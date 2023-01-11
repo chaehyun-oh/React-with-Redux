@@ -36,3 +36,4 @@
 | [Day 30](./markdown/230128.md) | S.6 How to Handle Forms (88~96)               |
 | [Day 31](./markdown/230129.md) | S.6 How to Handle Forms (97~103)              |
 | [Day 32](./markdown/230130.md) | S.6 How to Handle Forms (104~107)             |
+| [Day 33](./markdown/230131.md) | S.6 How to Handle Forms (108~114)             |
