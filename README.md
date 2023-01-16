@@ -21,3 +21,4 @@
 | [Day 15](./markdown/230113.md) | S.3 Building with Reusable Components (35)    |
 | [Day 16](./markdown/230114.md) | S.3 Building with Reusable Components (36)    |
 | [Day 17](./markdown/230115.md) | S.3 Building with Reusable Components (37~39) |
+| [Day 18](./markdown/230116.md) | S.4 State: How to Change Your App (40~42)     |
