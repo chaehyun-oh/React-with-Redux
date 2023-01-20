@@ -25,3 +25,4 @@
 | [Day 19](./markdown/230117.md) | S.4 State: How to Change Your App (43~45)     |
 | [Day 20](./markdown/230118.md) | S.4 State: How to Change Your App (46~48)     |
 | [Day 21](./markdown/230119.md) | S.4 State: How to Change Your App (49~52)     |
+| [Day 22](./markdown/230120.md) | S.4 State: How to Change Your App (53~58)     |
