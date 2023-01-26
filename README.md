@@ -31,3 +31,4 @@
 | [Day 25](./markdown/230123.md) | S.5 Using an API with React (65~67)           |
 | [Day 26](./markdown/230124.md) | S.5 Using an API with React (68~71)           |
 | [Day 27](./markdown/230125.md) | S.5 Using an API with React (72~76)           |
+| [Day 28](./markdown/230126.md) | S.5 Using an API with React (77~82)           |
