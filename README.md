@@ -34,4 +34,5 @@
 | [Day 28](./markdown/230126.md) | S.5 Using an API with React (77~82)           |
 | [Day 29](./markdown/230127.md) | S.6 How to Handle Forms (83~87)               |
 | [Day 30](./markdown/230128.md) | S.6 How to Handle Forms (88~96)               |
-| [Day 31](./markdown/230128.md) | S.6 How to Handle Forms (97~103)              |
+| [Day 31](./markdown/230129.md) | S.6 How to Handle Forms (97~103)              |
+| [Day 32](./markdown/230130.md) | S.6 How to Handle Forms (104~107)             |
