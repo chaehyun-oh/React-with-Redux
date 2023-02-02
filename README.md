@@ -38,3 +38,4 @@
 | [Day 32](./markdown/230130.md) | S.6 How to Handle Forms (104~107)                |
 | [Day 33](./markdown/230131.md) | S.6 How to Handle Forms (108~114)                |
 | [Day 34](./markdown/230201.md) | S.7 Data Persistence with API Requests (115~121) |
+| [Day 35](./markdown/230202.md) | S.7 Data Persistence with API Requests (122~129) |
