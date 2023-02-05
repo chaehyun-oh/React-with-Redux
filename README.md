@@ -41,3 +41,4 @@
 | [Day 35](./markdown/230202.md) | S.7 Data Persistence with API Requests (122~129)     |
 | [Day 36](./markdown/230203.md) | S.8 Communication Using the Context System (130~132) |
 | [Day 37](./markdown/230204.md) | S.8 Communication Using the Context System (133~141) |
+| [Day 38](./markdown/230205.md) | S.9 Deeper Dive into Hooks (142~150)                 |
