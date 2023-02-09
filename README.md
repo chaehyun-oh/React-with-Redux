@@ -45,3 +45,4 @@
 | [Day 39](./markdown/230206.md) | S.10 Custom Navigation and Routing System (151~158)  |
 | [Day 40](./markdown/230207.md) | S.10 Custom Navigation and Routing System (159~163)  |
 | [Day 41](./markdown/230208.md) | S.10 Custom Navigation and Routing System (164~169)  |
+| [Day 42](./markdown/230209.md) | S.11 Mastering the State Design Process (170~175)    |

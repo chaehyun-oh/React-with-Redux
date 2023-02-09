@@ -1,28 +1,21 @@
-import { GoBell, GoAlert, GoBookmark } from "react-icons/go";
-import Button from "./Button";
+import Accordion from "./components/Accordion";
 
 function App() {
-    const handlerClick = () => {
-        console.log('click');
-    };
+    const items = [
+        {
+            id: 'whewe',
+            label: 'Can I use React on a project?', content: 'You can use React on any project you want.'
+        },
+        {
+            id: 'whewawegea',
+            label: 'Can I use React on a project?', content: 'You can use JS on any project you want.'
+        },
+        {
+            id: 'whewawe1e',
+            label: 'Can I use React on a project?', content: 'You can use Vue.js on any project you want.'
+        },
+    ];
 
-    return <div>
-        <div>
-            <Button primary rounded onClick={handlerClick}>
-                <GoBell />
-                click me
-            </Button>
-        </div>
-        <div>
-            <Button secondary outline onMouseEnter={handlerClick}>
-                <GoBookmark />click me2
-            </Button>
-            <Button success rounded outline>click me2</Button>
-            <Button warning>
-                <GoAlert />click me2
-            </Button>
-            <Button danger>click me2</Button>
-        </div>
-    </div>
+    return <Accordion items={items} />
 }
 export default App;
