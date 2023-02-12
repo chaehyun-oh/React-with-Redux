@@ -1,21 +1,11 @@
-import Accordion from "./components/Accordion";
-
+import Dropdown from "./components/Dropdown";
 function App() {
-    const items = [
-        {
-            id: 'whewe',
-            label: 'Can I use React on a project?', content: 'You can use React on any project you want.'
-        },
-        {
-            id: 'whewawegea',
-            label: 'Can I use React on a project?', content: 'You can use JS on any project you want.'
-        },
-        {
-            id: 'whewawe1e',
-            label: 'Can I use React on a project?', content: 'You can use Vue.js on any project you want.'
-        },
-    ];
+    const options = [
+        { label: 'Red', value: 'red' },
+        { label: 'Blue', value: 'blue' },
+        { label: 'Green', value: 'green' },
+    ]
 
-    return <Accordion items={items} />
+    return <Dropdown options={options} />
 }
 export default App;
