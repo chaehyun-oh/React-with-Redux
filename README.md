@@ -50,3 +50,4 @@
 | [Day 44](./markdown/230211.md) | S.11 Mastering the State Design Process (178~184)    |
 | [Day 45](./markdown/230212.md) | S.12 Practicing Props and State Design (185~195)     |
 | [Day 46](./markdown/230213.md) | S.12 Practicing Props and State Design (196~200)     |
+| [Day 47](./markdown/230214.md) | S.12 Practicing Props and State Design (201~207)     |
