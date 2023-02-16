@@ -51,3 +51,5 @@
 | [Day 45](./markdown/230212.md) | S.12 Practicing Props and State Design (185~195)     |
 | [Day 46](./markdown/230213.md) | S.12 Practicing Props and State Design (196~200)     |
 | [Day 47](./markdown/230214.md) | S.12 Practicing Props and State Design (201~207)     |
+| [Day 48](./markdown/230215.md) | S.12 Practicing Props and State Design (208~210)     |
+| [Day 49](./markdown/230216.md) | S.12 Practicing Props and State Design (211~212)     |
