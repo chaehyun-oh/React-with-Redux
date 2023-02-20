@@ -22,11 +22,6 @@ const NavigationProvider = ({ children }) => {
     };
 
     return <NavigationContext.Provider value={{ currentPath, navigate }} >
-        <div>
-            <button onClick={() => navigate('/accordion')}>go to accordion</button>
-            <button onClick={() => navigate('/dropdown')}>go to dropdown</button>
-        </div>
-        {currentPath}
         {children}
     </NavigationContext.Provider >
 };
