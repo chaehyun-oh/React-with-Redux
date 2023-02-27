@@ -6,6 +6,7 @@ function TablePage() {
         { name: 'Apple', color: 'bg-red-500', score: 3 },
         { name: 'Banana', color: 'bg-yellow-400', score: 1 },
         { name: 'Lime', color: 'bg-green-300', score: 4 },
+        { name: 'Cherry', color: 'bg-red-700', score: 2 },
     ];
 
     const config = [
@@ -22,7 +23,12 @@ function TablePage() {
             label: 'Score',
             render: (fruit) => fruit.score,
             sortValue: (fruit) => fruit.score,
-        }
+        },
+        {
+            label: 'Score Squared',
+            render: (fruit) => fruit.score ** 2,
+            sortValue: (fruit) => fruit.score ** 2,
+        },
     ];
 
     const keyFn = (fruit) => {
