@@ -72,3 +72,4 @@
 | [Day 66](./markdown/230305.md) | S.18 Into the World of Reducers (296~298)            |
 | [Day 67](./markdown/230306.md) | S.18 Into the World of Reducers (299~300)            |
 | [Day 68](./markdown/230307.md) | S.18 Into the World of Reducers (301~302)            |
+| [Day 69](./markdown/230308.md) | S.18 Into the World of Reducers (303~304)            |
