@@ -76,4 +76,5 @@
 | [Day 70](./markdown/230309.md) | S.19 Dive into Redux Toolkit (305~306)               |
 | [Day 71](./markdown/230310.md) | S.19 Dive into Redux Toolkit (307~310)               |
 | [Day 72](./markdown/230311.md) | S.19 Dive into Redux Toolkit (311~314)               |
-| [Day 73](./markdown/230312.md) | S.19 Dive into Redux Toolkit (311~314)               |
+| [Day 73](./markdown/230312.md) | S.19 Dive into Redux Toolkit (315)                   |
+| [Day 74](./markdown/230313.md) | S.19 Dive into Redux Toolkit (316~318)               |
