@@ -80,5 +80,7 @@
 | [Day 74](./markdown/230313.md) | S.19 Dive into Redux Toolkit (316~318)                     |
 | [Day 75](./markdown/230314.md) | S.20 Managing Multiple Slices with Redux Toolkit (319~324) |
 | [Day 76](./markdown/230315.md) | S.20 Managing Multiple Slices with Redux Toolkit (325~333) |
-| [Day 77](./markdown/230315.md) | S.20 Managing Multiple Slices with Redux Toolkit (334~339) |
-| [Day 78](./markdown/230315.md) | S.21 Interfacing with API’s Using Async Thunks (340~345)   |
+| [Day 77](./markdown/230316.md) | S.20 Managing Multiple Slices with Redux Toolkit (334~339) |
+| [Day 78](./markdown/230317.md) | S.21 Interfacing with API’s Using Async Thunks (340~345)   |
+| [Day 79](./markdown/230318.md) | S.21 Interfacing with API’s Using Async Thunks (346~348)   |
+| [Day 80](./markdown/230319.md) | S.21 Interfacing with API’s Using Async Thunks (349~350)   |
