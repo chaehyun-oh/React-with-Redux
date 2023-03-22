@@ -8,9 +8,5 @@ const fetchUsers = createAsyncThunk('users/fetch', async () => {
 
 });
 
-fetchUsers.pending === 'users/fetch/pending';
-fetchUsers.fulfilled === 'users/fetch/fulfilled';
-fetchUsers.rejected === 'users/fetch/rejected';
-
 
 export { fetchUsers };
