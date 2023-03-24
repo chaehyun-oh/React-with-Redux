@@ -1,10 +1,54 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "Myra"
-        }
-    ],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Daniel Kub II",
+      "id": 2
+    },
+    {
+      "name": "Greg Greenfelder",
+      "id": 3
+    },
+    {
+      "name": "Lloyd Legros",
+      "id": 4
+    },
+    {
+      "name": "Edwin Considine",
+      "id": 5
+    },
+    {
+      "name": "Carmen Walsh",
+      "id": 6
+    },
+    {
+      "name": "Nettie Schumm",
+      "id": 7
+    },
+    {
+      "name": "Theresa Orn",
+      "id": 8
+    },
+    {
+      "name": "Darin Schoen",
+      "id": 9
+    },
+    {
+      "name": "Lester Haag",
+      "id": 10
+    },
+    {
+      "name": "Ruben Wilderman",
+      "id": 11
+    },
+    {
+      "name": "Mr. Scott Bauch",
+      "id": 12
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
