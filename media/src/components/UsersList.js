@@ -1,34 +1,28 @@
-import { useEffect, useState } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
+import { useEffect } from 'react';
+import { useSelector } from 'react-redux';
 import { fetchUsers, addUser } from '../store';
 import Button from './Button';
 import Skeleton from './Skeleton';
+import { useThunk } from '../hooks/use-thunk';
 
 
 function UsersList() {
-    const [isLoadingUsers, setIsLoadingUsers] = useState(false);
-    const [loadingUsersError, setLoadingUsersError] = useState(null);
-    const dispatch = useDispatch();
+    const [doFetchUsers, isLoadingUsers, loadingUsersError] = useThunk(fetchUsers);
+    const [doCreatUser, isCreatingUser, creatingUserError] = useThunk(addUser);
+
     const { data } = useSelector((state) => {
         return state.users;
         // {data: [], isLoading: false, error: null }
     });
 
     useEffect(() => {
-        setIsLoadingUsers(true);
-        dispatch(fetchUsers())
-            .unwrap()
-            .then(() => {
-                console.log('success');
-            })
-            .catch(() => {
-                console.log('fail');
-            })
-    }, [dispatch]);
+        doFetchUsers();
+    }, [doFetchUsers]);
+
     //  [dispatch] is not actually required. But just to make the warning go away
 
     const handleUserAdd = () => {
-        dispatch(addUser())
+        doCreatUser();
     };
 
     if (isLoadingUsers) {
@@ -50,9 +44,13 @@ function UsersList() {
         <div>
             <div className='flex flex-row justify-between m-3'>
                 <h1 className='m-2 text-xl'>Users</h1>
-                <Button onClick={handleUserAdd}>
-                    + Add User
-                </Button>
+                {
+                    isCreatingUser ? 'Creating User...' :
+                        <Button onClick={handleUserAdd}>
+                            + Add User
+                        </Button>
+                }
+                {creatingUserError && 'Error creating user...'}
             </div>
             {renderedUsers}
         </div>

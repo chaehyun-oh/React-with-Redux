@@ -91,3 +91,4 @@
 | [Day 85](./markdown/230324.md) | S.21 Interfacing with API’s Using Async Thunks (361~363)   |
 | [Day 86](./markdown/230325.md) | S.21 Interfacing with API’s Using Async Thunks (364)       |
 | [Day 87](./markdown/230326.md) | S.21 Interfacing with API’s Using Async Thunks (365)       |
+| [Day 88](./markdown/230327.md) | S.21 Interfacing with API’s Using Async Thunks (366~368)   |
