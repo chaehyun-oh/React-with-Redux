@@ -13,32 +13,8 @@
       "id": 3
     },
     {
-      "name": "Lloyd Legros",
-      "id": 4
-    },
-    {
-      "name": "Edwin Considine",
-      "id": 5
-    },
-    {
-      "name": "Carmen Walsh",
-      "id": 6
-    },
-    {
-      "name": "Nettie Schumm",
-      "id": 7
-    },
-    {
-      "name": "Theresa Orn",
-      "id": 8
-    },
-    {
       "name": "Darin Schoen",
       "id": 9
-    },
-    {
-      "name": "Lester Haag",
-      "id": 10
     },
     {
       "name": "Ruben Wilderman",
@@ -49,24 +25,8 @@
       "id": 12
     },
     {
-      "name": "Miss Cassandra Quigley",
-      "id": 13
-    },
-    {
-      "name": "Tyler Heaney",
-      "id": 14
-    },
-    {
       "name": "Gina Armstrong",
       "id": 15
-    },
-    {
-      "name": "Dr. Isaac Rosenbaum V",
-      "id": 16
-    },
-    {
-      "name": "Randall Swift",
-      "id": 17
     },
     {
       "name": "Joy Morar",
@@ -75,6 +35,10 @@
     {
       "name": "Ms. Mark Schoen",
       "id": 19
+    },
+    {
+      "name": "Norman Gulgowski",
+      "id": 20
     }
   ],
   "albums": [],
