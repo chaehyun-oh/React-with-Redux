@@ -95,3 +95,4 @@
 | [Day 89](./markdown/230328.md) | S.21 Interfacing with API’s Using Async Thunks (369~370)   |
 | [Day 90](./markdown/230329.md) | S.21 Interfacing with API’s Using Async Thunks (371~374)   |
 | [Day 91](./markdown/230330.md) | S.21 Interfacing with API’s Using Async Thunks (375~380)   |
+| [Day 92](./markdown/230331.md) | S.22 Modern Async with Redux Toolkit Query (381~384)       |
