@@ -39,8 +39,18 @@
     {
       "name": "Norman Gulgowski",
       "id": 20
+    },
+    {
+      "name": "Oscar Kunze DVM",
+      "id": 21
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    }
+  ],
   "photos": []
 }
