@@ -50,6 +50,21 @@
       "id": 10,
       "title": "Hiking Trip",
       "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Tasty Soft Towels",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Electronic Cotton Tuna",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Wooden Soap",
+      "id": 13
     }
   ],
   "photos": []
