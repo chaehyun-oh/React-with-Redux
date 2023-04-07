@@ -5,12 +5,12 @@
       "name": "Myra"
     },
     {
-      "name": "Greg Greenfelder",
-      "id": 3
-    },
-    {
       "name": "Ruben Wilderman",
       "id": 11
+    },
+    {
+      "name": "Rhonda Baumbach",
+      "id": 12
     }
   ],
   "albums": [
@@ -18,21 +18,6 @@
       "id": 10,
       "title": "Hiking Trip",
       "userId": 1
-    },
-    {
-      "userId": 1,
-      "title": "Tasty Soft Towels",
-      "id": 11
-    },
-    {
-      "userId": 1,
-      "title": "Electronic Cotton Tuna",
-      "id": 12
-    },
-    {
-      "userId": 1,
-      "title": "Oriental Wooden Soap",
-      "id": 13
     },
     {
       "userId": 1,
@@ -73,11 +58,6 @@
       "userId": 1,
       "title": "Oriental Frozen Shirt",
       "id": 23
-    },
-    {
-      "userId": 3,
-      "title": "Elegant Fresh Ball",
-      "id": 24
     }
   ],
   "photos": []

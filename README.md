@@ -102,3 +102,4 @@
 | [Day 96](./markdown/230404.md) | S.22 Modern Async with Redux Toolkit Query (388~390)       |
 | [Day 97](./markdown/230405.md) | S.22 Modern Async with Redux Toolkit Query (391~393)       |
 | [Day 98](./markdown/230406.md) | S.22 Modern Async with Redux Toolkit Query (394~397)       |
+| [Day 99](./markdown/230407.md) | S.22 Modern Async with Redux Toolkit Query (398~401)       |
